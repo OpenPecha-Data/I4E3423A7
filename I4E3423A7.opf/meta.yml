@@ -1,0 +1,16 @@
+id: I4E3423A7
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:08:21.641632
+last_modified: 2023-02-08 15:08:21.641766
+source_metadata:
+  title: Khaḍgaviṣāṇasūtra
+  language: sa
+bases:
+  20B0:
+    base_file: 20B0.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

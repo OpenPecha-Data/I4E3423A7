@@ -1,0 +1,11 @@
+id: 920028933c2e45fe96b637ead35827f0
+annotation_type: index
+revision: '00001'
+annotations:
+  dd547f6dfb67452c928d5814389b4ff5:
+    base: 20B0.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 2279
